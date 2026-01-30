@@ -1,0 +1,194 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 1294.0,
+      "pixel_y": 1324.0,
+      "area_pixels": 9,
+      "mean_backscatter": 2728.22216796875,
+      "mean_sbci": 8.733896255493164,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 1292.3074312493568,
+      "bbox_min_y": 1322.7305734370175,
+      "bbox_max_x": 1295.6925687506432,
+      "bbox_max_y": 1325.2694265629825,
+      "cluster_id": 0,
+      "lat": 19.876778873151366,
+      "lng": -158.94317049144726,
+      "risk": 20,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Tug",
+      "flag": "Marshall Islands",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 8781.0,
+      "pixel_y": 1567.0,
+      "area_pixels": 9,
+      "mean_backscatter": 984.888916015625,
+      "mean_sbci": 5.930335998535156,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 8779.307431249357,
+      "bbox_min_y": 1565.7305734370175,
+      "bbox_max_x": 8782.692568750643,
+      "bbox_max_y": 1568.2694265629825,
+      "cluster_id": 2,
+      "lat": 20.697437910882563,
+      "lng": -158.3549848577572,
+      "risk": 83,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Fishing",
+      "flag": "Marshall Islands",
+      "behavior_analysis": {
+        "reasoning": "Speed profile inconsistent with declared vessel type."
+      }
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 8444.0,
+      "pixel_y": 1575.0,
+      "area_pixels": 15,
+      "mean_backscatter": 1020.0,
+      "mean_sbci": 6.995471477508545,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 8441.814903138817,
+      "bbox_min_y": 1573.361177354112,
+      "bbox_max_x": 8446.185096861183,
+      "bbox_max_y": 1576.638822645888,
+      "cluster_id": 1,
+      "lat": 19.90522402596041,
+      "lng": -157.80939177984112,
+      "risk": 12,
+      "name": "Vessel-3",
+      "status": "UNKNOWN",
+      "type": "Tanker",
+      "flag": "Liberia",
+      "behavior_analysis": {
+        "reasoning": "Entering EEZ without scheduled authorization."
+      }
+    },
+    {
+      "vessel_id": 4,
+      "pixel_x": 12514.0,
+      "pixel_y": 1811.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1237.111083984375,
+      "mean_sbci": 9.386248588562012,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 12512.307431249357,
+      "bbox_min_y": 1809.7305734370175,
+      "bbox_max_x": 12515.692568750643,
+      "bbox_max_y": 1812.2694265629825,
+      "cluster_id": 0,
+      "lat": 20.29635345605959,
+      "lng": -158.41649637462626,
+      "risk": 64,
+      "name": "Vessel-4",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "Abnormal course deviation detected near restricted zone."
+      }
+    },
+    {
+      "vessel_id": 5,
+      "pixel_x": 1344.0,
+      "pixel_y": 2944.0,
+      "area_pixels": 9,
+      "mean_backscatter": 2382.666748046875,
+      "mean_sbci": 5.836627960205078,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 1342.3074312493568,
+      "bbox_min_y": 2942.7305734370175,
+      "bbox_max_x": 1345.6925687506432,
+      "bbox_max_y": 2945.2694265629825,
+      "cluster_id": 2,
+      "lat": 19.89398643429947,
+      "lng": -158.40909394168864,
+      "risk": 61,
+      "name": "Vessel-5",
+      "status": "UNKNOWN",
+      "type": "Tanker",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 6,
+      "pixel_x": 1555.0,
+      "pixel_y": 3252.0,
+      "area_pixels": 9,
+      "mean_backscatter": 4679.33349609375,
+      "mean_sbci": 8.41491985321045,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 1553.3074312493568,
+      "bbox_min_y": 3250.7305734370175,
+      "bbox_max_x": 1556.6925687506432,
+      "bbox_max_y": 3253.2694265629825,
+      "cluster_id": 0,
+      "lat": 20.997445530271328,
+      "lng": -157.73483952042716,
+      "risk": 68,
+      "name": "Vessel-6",
+      "status": "UNKNOWN",
+      "type": "Tug",
+      "flag": "Marshall Islands",
+      "behavior_analysis": {
+        "reasoning": "Speed profile inconsistent with declared vessel type."
+      }
+    },
+    {
+      "vessel_id": 7,
+      "pixel_x": 10658.0,
+      "pixel_y": 3844.0,
+      "area_pixels": 9,
+      "mean_backscatter": 3914.5556640625,
+      "mean_sbci": 10.517669677734375,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 10656.307431249357,
+      "bbox_min_y": 3842.7305734370175,
+      "bbox_max_x": 10659.692568750643,
+      "bbox_max_y": 3845.2694265629825,
+      "cluster_id": 0,
+      "lat": 20.905853824838893,
+      "lng": -157.91150011122093,
+      "risk": 60,
+      "name": "Vessel-7",
+      "status": "UNKNOWN",
+      "type": "Tanker",
+      "flag": "Liberia",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 7,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region sat1 indicates significant maritime activity. 7 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 7 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

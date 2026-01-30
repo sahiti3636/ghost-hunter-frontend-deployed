@@ -1,0 +1,94 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 10440.5,
+      "pixel_y": 8062.5,
+      "area_pixels": 18,
+      "mean_backscatter": 793.5555419921875,
+      "mean_sbci": 7.947580337524414,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.047197551196598,
+      "bbox_min_x": 10438.10634631759,
+      "bbox_min_y": 8060.704759738193,
+      "bbox_max_x": 10442.89365368241,
+      "bbox_max_y": 8064.295240261807,
+      "cluster_id": 1,
+      "lat": 19.541604370700668,
+      "lng": -158.05725621676615,
+      "risk": 63,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Cargo",
+      "flag": "China",
+      "behavior_analysis": {
+        "reasoning": "Speed profile inconsistent with declared vessel type."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 10202.0,
+      "pixel_y": 8097.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1220.77783203125,
+      "mean_sbci": 10.211092948913574,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 10200.307431249357,
+      "bbox_min_y": 8095.7305734370175,
+      "bbox_max_x": 10203.692568750643,
+      "bbox_max_y": 8098.2694265629825,
+      "cluster_id": 0,
+      "lat": 20.105550691288656,
+      "lng": -158.73308196535427,
+      "risk": 54,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "USA",
+      "behavior_analysis": {
+        "reasoning": "Speed profile inconsistent with declared vessel type."
+      }
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 10632.0,
+      "pixel_y": 8211.0,
+      "area_pixels": 9,
+      "mean_backscatter": 2660.22216796875,
+      "mean_sbci": 8.933366775512695,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 10630.307431249357,
+      "bbox_min_y": 8209.730573437018,
+      "bbox_max_x": 10633.692568750643,
+      "bbox_max_y": 8212.269426562982,
+      "cluster_id": 2,
+      "lat": 20.573921793716604,
+      "lng": -157.84166878836123,
+      "risk": 27,
+      "name": "Vessel-3",
+      "status": "UNKNOWN",
+      "type": "Tanker",
+      "flag": "Liberia",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 3,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region S1A_IW_GRDH_1SDV_20251228T001355_20251228T001424_062508_07D539_B554.SAFE indicates significant maritime activity. 3 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 3 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

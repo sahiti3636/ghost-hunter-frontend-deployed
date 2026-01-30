@@ -1,0 +1,119 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 9886.608695652174,
+      "pixel_y": 2050.9565217391305,
+      "area_pixels": 23,
+      "mean_backscatter": 949.95654296875,
+      "mean_sbci": 8.598788261413574,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965979,
+      "bbox_min_x": 9883.902937462271,
+      "bbox_min_y": 2048.927203096703,
+      "bbox_max_x": 9889.314453842077,
+      "bbox_max_y": 2052.985840381558,
+      "cluster_id": 2,
+      "lat": 19.514481077781536,
+      "lng": -158.53227708746795,
+      "risk": 50,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Tanker",
+      "flag": "China",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 7076.5,
+      "pixel_y": 6231.5,
+      "area_pixels": 16,
+      "mean_backscatter": 6574.1875,
+      "mean_sbci": 14.338386535644531,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 7074.243241665809,
+      "bbox_min_y": 6229.807431249356,
+      "bbox_max_x": 7078.756758334191,
+      "bbox_max_y": 6233.192568750644,
+      "cluster_id": 1,
+      "lat": 19.49122482702347,
+      "lng": -157.23719662397008,
+      "risk": 73,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Fishing",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "Loitering pattern observed in high-traffic channel."
+      }
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 8915.0,
+      "pixel_y": 7572.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1341.4444580078125,
+      "mean_sbci": 7.7128143310546875,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 8913.307431249357,
+      "bbox_min_y": 7570.7305734370175,
+      "bbox_max_x": 8916.692568750643,
+      "bbox_max_y": 7573.2694265629825,
+      "cluster_id": 0,
+      "lat": 20.172981494904167,
+      "lng": -158.9314962127688,
+      "risk": 74,
+      "name": "Vessel-3",
+      "status": "UNKNOWN",
+      "type": "Military",
+      "flag": "China",
+      "behavior_analysis": {
+        "reasoning": "Abnormal course deviation detected near restricted zone."
+      }
+    },
+    {
+      "vessel_id": 4,
+      "pixel_x": 5517.0,
+      "pixel_y": 7845.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1150.5555419921875,
+      "mean_sbci": 6.911068439483643,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 5515.307431249356,
+      "bbox_min_y": 7843.7305734370175,
+      "bbox_max_x": 5518.692568750644,
+      "bbox_max_y": 7846.2694265629825,
+      "cluster_id": 0,
+      "lat": 19.65228434691426,
+      "lng": -158.40602090675355,
+      "risk": 15,
+      "name": "Vessel-4",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 4,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region sat13 indicates significant maritime activity. 4 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 4 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

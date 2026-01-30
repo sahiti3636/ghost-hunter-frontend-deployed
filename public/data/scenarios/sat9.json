@@ -1,0 +1,69 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 3909.0,
+      "pixel_y": 1990.0,
+      "area_pixels": 9,
+      "mean_backscatter": 2323.111083984375,
+      "mean_sbci": 6.736452579498291,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 3907.307431249357,
+      "bbox_min_y": 1988.7305734370175,
+      "bbox_max_x": 3910.692568750643,
+      "bbox_max_y": 1991.2694265629825,
+      "cluster_id": 0,
+      "lat": 20.476811265627898,
+      "lng": -158.22173375668882,
+      "risk": 31,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Tanker",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 10434.4,
+      "pixel_y": 4013.4,
+      "area_pixels": 15,
+      "mean_backscatter": 1798.199951171875,
+      "mean_sbci": 8.946535110473633,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 10432.214903138816,
+      "bbox_min_y": 4011.761177354112,
+      "bbox_max_x": 10436.585096861183,
+      "bbox_max_y": 4015.038822645888,
+      "cluster_id": 1,
+      "lat": 20.66540760513886,
+      "lng": -157.54903086646422,
+      "risk": 34,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "Liberia",
+      "behavior_analysis": {
+        "reasoning": "Loitering pattern observed in high-traffic channel."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 2,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region sat9 indicates significant maritime activity. 2 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 2 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

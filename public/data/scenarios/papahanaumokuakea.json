@@ -1,0 +1,915 @@
+{
+  "pipeline_version": "2.0 (Cached Real Data)",
+  "region": "S1A_IW_GRDH_1SDV_20250101T000000_PAPAH\u0100NAUMOKU\u0100KEA_FALLBACK",
+  "timestamp": "2025-12-30T18:31:58.901752",
+  "detection_data": {
+    "satellite_image": {
+      "url": "/analysis_images/S1A_IW_GRDH_1SDV_20251228T232206_20251228T232231_062522_07D5BF_39AF.SAFE.png",
+      "bounds": [
+        [
+          24.5,
+          -179.9
+        ],
+        [
+          29.5,
+          -174.5
+        ]
+      ]
+    }
+  },
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 7339.0,
+      "pixel_y": 2.0,
+      "latitude": 26.135387670775845,
+      "longitude": -176.86801675965904,
+      "area_pixels": 9,
+      "mean_backscatter": 3882.888916015625,
+      "max_backscatter": 4001.0,
+      "mean_sbci": 5.390552043914795,
+      "max_sbci": 5.842040538787842,
+      "detection_confidence": 5.842040538787842,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 2118,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "26.1354\u00b0N, -176.8680\u00b0E",
+      "lat": 26.135387670775845,
+      "lng": -176.86801675965904,
+      "risk": 40,
+      "id": 1,
+      "name": "Vessel 1 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 7523.0,
+      "pixel_y": 104.0,
+      "latitude": 27.459910290935195,
+      "longitude": -177.01960103247282,
+      "area_pixels": 9,
+      "mean_backscatter": 2973.5556640625,
+      "max_backscatter": 4728.0,
+      "mean_sbci": 8.536874771118164,
+      "max_sbci": 14.610939025878906,
+      "detection_confidence": 14.610939025878906,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3668,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "27.4599\u00b0N, -177.0196\u00b0E",
+      "lat": 27.459910290935195,
+      "lng": -177.01960103247282,
+      "risk": 40,
+      "id": 2,
+      "name": "Vessel 2 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 7612.5,
+      "pixel_y": 135.0,
+      "latitude": 25.448288788851727,
+      "longitude": -176.68895513089254,
+      "area_pixels": 12,
+      "mean_backscatter": 2217.666748046875,
+      "max_backscatter": 3621.0,
+      "mean_sbci": 9.426944732666016,
+      "max_sbci": 15.635941505432129,
+      "detection_confidence": 15.635941505432129,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0005,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3485,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "25.4483\u00b0N, -176.6890\u00b0E",
+      "lat": 25.448288788851727,
+      "lng": -176.68895513089254,
+      "risk": 40,
+      "id": 3,
+      "name": "Vessel 3 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 4,
+      "pixel_x": 7369.0,
+      "pixel_y": 386.0,
+      "latitude": 28.264012601681593,
+      "longitude": -176.53126348005864,
+      "area_pixels": 9,
+      "mean_backscatter": 2906.4443359375,
+      "max_backscatter": 4145.0,
+      "mean_sbci": 9.159865379333496,
+      "max_sbci": 13.20465087890625,
+      "detection_confidence": 13.20465087890625,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0066,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3224,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "28.2640\u00b0N, -176.5313\u00b0E",
+      "lat": 28.264012601681593,
+      "lng": -176.53126348005864,
+      "risk": 40,
+      "id": 4,
+      "name": "Vessel 4 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 5,
+      "pixel_x": 6907.0,
+      "pixel_y": 660.0,
+      "latitude": 25.687237749603653,
+      "longitude": -176.2948561650325,
+      "area_pixels": 9,
+      "mean_backscatter": 10206.5556640625,
+      "max_backscatter": 11651.0,
+      "mean_sbci": 9.615141868591309,
+      "max_sbci": 11.282474517822266,
+      "detection_confidence": 11.282474517822266,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0257,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3486,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "25.6872\u00b0N, -176.2949\u00b0E",
+      "lat": 25.687237749603653,
+      "lng": -176.2948561650325,
+      "risk": 40,
+      "id": 5,
+      "name": "Vessel 5 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 6,
+      "pixel_x": 6808.0,
+      "pixel_y": 1177.0,
+      "latitude": 27.11242180970843,
+      "longitude": -176.70008544979572,
+      "area_pixels": 9,
+      "mean_backscatter": 1551.6666259765625,
+      "max_backscatter": 2232.0,
+      "mean_sbci": 7.719395160675049,
+      "max_sbci": 11.201112747192383,
+      "detection_confidence": 11.201112747192383,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3178,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "27.1124\u00b0N, -176.7001\u00b0E",
+      "lat": 27.11242180970843,
+      "lng": -176.70008544979572,
+      "risk": 40,
+      "id": 6,
+      "name": "Vessel 6 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 7,
+      "pixel_x": 7036.0,
+      "pixel_y": 1362.0,
+      "latitude": 26.40697497216009,
+      "longitude": -178.1608517868408,
+      "area_pixels": 9,
+      "mean_backscatter": 3299.666748046875,
+      "max_backscatter": 4763.0,
+      "mean_sbci": 11.094331741333008,
+      "max_sbci": 16.178043365478516,
+      "detection_confidence": 16.178043365478516,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0008,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 2958,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "26.4070\u00b0N, -178.1609\u00b0E",
+      "lat": 26.40697497216009,
+      "lng": -178.1608517868408,
+      "risk": 40,
+      "id": 7,
+      "name": "Vessel 7 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 8,
+      "pixel_x": 7419.0,
+      "pixel_y": 1416.0,
+      "latitude": 25.37013887335169,
+      "longitude": -178.23938693651772,
+      "area_pixels": 9,
+      "mean_backscatter": 2930.22216796875,
+      "max_backscatter": 3481.0,
+      "mean_sbci": 9.386310577392578,
+      "max_sbci": 11.622175216674805,
+      "detection_confidence": 11.622175216674805,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0011,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3824,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "25.3701\u00b0N, -178.2394\u00b0E",
+      "lat": 25.37013887335169,
+      "lng": -178.23938693651772,
+      "risk": 40,
+      "id": 8,
+      "name": "Vessel 8 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 9,
+      "pixel_x": 7198.0,
+      "pixel_y": 1563.0,
+      "latitude": 27.615512189425868,
+      "longitude": -175.74197040920612,
+      "area_pixels": 9,
+      "mean_backscatter": 2079.888916015625,
+      "max_backscatter": 3085.0,
+      "mean_sbci": 8.859262466430664,
+      "max_sbci": 13.226409912109375,
+      "detection_confidence": 13.226409912109375,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0017,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3828,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "27.6155\u00b0N, -175.7420\u00b0E",
+      "lat": 27.615512189425868,
+      "lng": -175.74197040920612,
+      "risk": 40,
+      "id": 9,
+      "name": "Vessel 9 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 10,
+      "pixel_x": 7271.0,
+      "pixel_y": 2769.0,
+      "latitude": 27.29722056770247,
+      "longitude": -178.18614847973222,
+      "area_pixels": 9,
+      "mean_backscatter": 2717.77783203125,
+      "max_backscatter": 3201.0,
+      "mean_sbci": 6.684148788452148,
+      "max_sbci": 8.421669960021973,
+      "detection_confidence": 8.421669960021973,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.2013,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3791,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "27.2972\u00b0N, -178.1861\u00b0E",
+      "lat": 27.29722056770247,
+      "lng": -178.18614847973222,
+      "risk": 40,
+      "id": 10,
+      "name": "Vessel 10 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 11,
+      "pixel_x": 12646.0,
+      "pixel_y": 3571.0,
+      "latitude": 26.83817472009393,
+      "longitude": -176.03782409862026,
+      "area_pixels": 9,
+      "mean_backscatter": 2056.888916015625,
+      "max_backscatter": 2739.0,
+      "mean_sbci": 8.504402160644531,
+      "max_sbci": 11.414445877075195,
+      "detection_confidence": 11.414445877075195,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0002,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3688,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "26.8382\u00b0N, -176.0378\u00b0E",
+      "lat": 26.83817472009393,
+      "lng": -176.03782409862026,
+      "risk": 40,
+      "id": 11,
+      "name": "Vessel 11 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 12,
+      "pixel_x": 6386.0,
+      "pixel_y": 4146.0,
+      "latitude": 27.066572878583766,
+      "longitude": -176.82108150219585,
+      "area_pixels": 9,
+      "mean_backscatter": 3420.77783203125,
+      "max_backscatter": 4830.0,
+      "mean_sbci": 8.905599594116211,
+      "max_sbci": 12.671797752380371,
+      "detection_confidence": 12.671797752380371,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0002,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3588,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "27.0666\u00b0N, -176.8211\u00b0E",
+      "lat": 27.066572878583766,
+      "lng": -176.82108150219585,
+      "risk": 40,
+      "id": 12,
+      "name": "Vessel 12 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 13,
+      "pixel_x": 6792.0,
+      "pixel_y": 4941.0,
+      "latitude": 26.28199114960041,
+      "longitude": -178.22409624830354,
+      "area_pixels": 9,
+      "mean_backscatter": 1711.4444580078125,
+      "max_backscatter": 1816.0,
+      "mean_sbci": 6.69156551361084,
+      "max_sbci": 7.1117448806762695,
+      "detection_confidence": 7.1117448806762695,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0669,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3374,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "26.2820\u00b0N, -178.2241\u00b0E",
+      "lat": 26.28199114960041,
+      "lng": -178.22409624830354,
+      "risk": 40,
+      "id": 13,
+      "name": "Vessel 13 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 14,
+      "pixel_x": 1847.0,
+      "pixel_y": 5342.0,
+      "latitude": 25.895670212792947,
+      "longitude": -176.8637495645436,
+      "area_pixels": 9,
+      "mean_backscatter": 1814.4444580078125,
+      "max_backscatter": 2605.0,
+      "mean_sbci": 8.047318458557129,
+      "max_sbci": 11.655717849731445,
+      "detection_confidence": 11.655717849731445,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0001,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3607,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "25.8957\u00b0N, -176.8637\u00b0E",
+      "lat": 25.895670212792947,
+      "lng": -176.8637495645436,
+      "risk": 40,
+      "id": 14,
+      "name": "Vessel 14 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 15,
+      "pixel_x": 6487.5,
+      "pixel_y": 6200.0,
+      "latitude": 26.444841309142895,
+      "longitude": -175.63397889704643,
+      "area_pixels": 12,
+      "mean_backscatter": 1951.1666259765625,
+      "max_backscatter": 2258.0,
+      "mean_sbci": 6.336555480957031,
+      "max_sbci": 7.561150550842285,
+      "detection_confidence": 7.561150550842285,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0003,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3391,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "26.4448\u00b0N, -175.6340\u00b0E",
+      "lat": 26.444841309142895,
+      "lng": -175.63397889704643,
+      "risk": 40,
+      "id": 15,
+      "name": "Vessel 15 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 16,
+      "pixel_x": 1753.0,
+      "pixel_y": 6278.5,
+      "latitude": 25.49795513884723,
+      "longitude": -178.11768398292165,
+      "area_pixels": 18,
+      "mean_backscatter": 2100.27783203125,
+      "max_backscatter": 2286.0,
+      "mean_sbci": 7.145411968231201,
+      "max_sbci": 7.804651260375977,
+      "detection_confidence": 7.804651260375977,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0011,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3407,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "25.4980\u00b0N, -178.1177\u00b0E",
+      "lat": 25.49795513884723,
+      "lng": -178.11768398292165,
+      "risk": 40,
+      "id": 16,
+      "name": "Vessel 16 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 17,
+      "pixel_x": 2495.4,
+      "pixel_y": 6624.4,
+      "latitude": 28.187949407988064,
+      "longitude": -177.4735598624808,
+      "area_pixels": 15,
+      "mean_backscatter": 3984.933349609375,
+      "max_backscatter": 7519.0,
+      "mean_sbci": 8.968536376953125,
+      "max_sbci": 16.99060821533203,
+      "detection_confidence": 16.99060821533203,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0001,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3678,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "28.1879\u00b0N, -177.4736\u00b0E",
+      "lat": 28.187949407988064,
+      "lng": -177.4735598624808,
+      "risk": 40,
+      "id": 17,
+      "name": "Vessel 17 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 18,
+      "pixel_x": 3306.5,
+      "pixel_y": 6713.0,
+      "latitude": 25.597508925213155,
+      "longitude": -175.73907000976774,
+      "area_pixels": 12,
+      "mean_backscatter": 3531.5,
+      "max_backscatter": 5021.0,
+      "mean_sbci": 9.84566879272461,
+      "max_sbci": 14.02193546295166,
+      "detection_confidence": 14.02193546295166,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3775,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "25.5975\u00b0N, -175.7391\u00b0E",
+      "lat": 25.597508925213155,
+      "lng": -175.73907000976774,
+      "risk": 40,
+      "id": 18,
+      "name": "Vessel 18 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 19,
+      "pixel_x": 4198.941176470588,
+      "pixel_y": 6834.588235294118,
+      "latitude": 28.08123708204445,
+      "longitude": -177.1678753148253,
+      "area_pixels": 17,
+      "mean_backscatter": 5663.05859375,
+      "max_backscatter": 9620.0,
+      "mean_sbci": 11.777970314025879,
+      "max_sbci": 20.322641372680664,
+      "detection_confidence": 20.322641372680664,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3452,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "28.0812\u00b0N, -177.1679\u00b0E",
+      "lat": 28.08123708204445,
+      "lng": -177.1678753148253,
+      "risk": 40,
+      "id": 19,
+      "name": "Vessel 19 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 20,
+      "pixel_x": 2633.5,
+      "pixel_y": 7121.0,
+      "latitude": 28.091209009676763,
+      "longitude": -177.514905458254,
+      "area_pixels": 12,
+      "mean_backscatter": 4207.33349609375,
+      "max_backscatter": 6549.0,
+      "mean_sbci": 10.747084617614746,
+      "max_sbci": 17.025264739990234,
+      "detection_confidence": 17.025264739990234,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 3690,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "28.0912\u00b0N, -177.5149\u00b0E",
+      "lat": 28.091209009676763,
+      "lng": -177.514905458254,
+      "risk": 40,
+      "id": 20,
+      "name": "Vessel 20 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 21,
+      "pixel_x": 2695.0,
+      "pixel_y": 7848.5,
+      "latitude": 28.251013622729104,
+      "longitude": -175.6946922299046,
+      "area_pixels": 12,
+      "mean_backscatter": 3222.916748046875,
+      "max_backscatter": 3632.0,
+      "mean_sbci": 6.935619831085205,
+      "max_sbci": 7.838259696960449,
+      "detection_confidence": 7.838259696960449,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.4352,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 2482,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": []
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "28.2510\u00b0N, -175.6947\u00b0E",
+      "lat": 28.251013622729104,
+      "lng": -175.6946922299046,
+      "risk": 40,
+      "id": 21,
+      "name": "Vessel 21 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    },
+    {
+      "vessel_id": 22,
+      "pixel_x": 11647.0,
+      "pixel_y": 7945.5,
+      "latitude": 26.772685823917218,
+      "longitude": -176.2917144327145,
+      "area_pixels": 12,
+      "mean_backscatter": 2228.0,
+      "max_backscatter": 2525.0,
+      "mean_sbci": 6.981142520904541,
+      "max_sbci": 8.159937858581543,
+      "detection_confidence": 8.159937858581543,
+      "ais_status": "DARK",
+      "image": null,
+      "cnn_confidence": 0.0203,
+      "is_vessel_verified": "NO",
+      "vessel_size_pixels": 187,
+      "ais_verification": {
+        "status": "NO_MATCH"
+      },
+      "behavior_analysis": {
+        "suspicion_level": "LOW",
+        "flags": [
+          "SMALL_VESSEL"
+        ]
+      },
+      "risk_score": 40,
+      "risk_breakdown": [
+        "AIS Offline (+40)"
+      ],
+      "coordinates": "26.7727\u00b0N, -176.2917\u00b0E",
+      "lat": 26.772685823917218,
+      "lng": -176.2917144327145,
+      "risk": 40,
+      "id": 22,
+      "name": "Vessel 22 (Papah\u0101naumoku\u0101kea)",
+      "status": "Active",
+      "lastSeen": "1h ago",
+      "type": "Unknown",
+      "flag": "Unknown"
+    }
+  ],
+  "satellite_image": {
+    "url": "/simulation_overlay.png",
+    "bounds": [
+      [
+        -10,
+        -10
+      ],
+      [
+        10,
+        10
+      ]
+    ]
+  },
+  "satellite_metadata": {
+    "source": "Sentinel-1 (Real Metadata)",
+    "scene_id": "S1A_IW_GRDH_1SDV_20250101T000000_PAPAH\u0100NAUMOKU\u0100KEA_FALLBACK",
+    "ingestion_date": "2025-12-30T18:30:24.000Z"
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Surveillance of Papah\u0101naumoku\u0101kea Marine National Monument reveals 22 vessels operating without AIS transmission ('Dark Vessels'). While zero vessels were flagged as high-risk based on immediate spectral analysis, the cluster of non-cooperative vessels warrants further investigation for potential IUU fishing activities in this protected zone.",
+    "threat_assessment": "MODERATE. The high density of dark vessels in a protected area is irregular. Recommend deployment of aerial assets for visual identification.",
+    "key_findings": [
+      "22 Non-cooperative (Dark) vessels detected.",
+      "0 Confirmed High-Risk targets.",
+      "Average vessel size indicates potential mid-sized fishing fleet.",
+      "Pattern suggests coordinated movement or loitering."
+    ]
+  },
+  "detection_summary": {
+    "total_vessels": 22,
+    "dark_vessels": 22,
+    "high_risk_vessels": 0
+  }
+}

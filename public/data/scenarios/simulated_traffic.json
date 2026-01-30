@@ -1,0 +1,335 @@
+{
+  "vessels": [
+    {
+      "vessel_id": "SIM-VSL-001",
+      "latitude": -0.013430524769264249,
+      "longitude": -0.07370283930670499,
+      "risk_score": 15,
+      "ais_status": "Active",
+      "cnn_confidence": 0.7514304796238724,
+      "length": 55.134548844793834,
+      "heading": 277.7845096857731,
+      "speed": 21.68814008040518,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-002",
+      "latitude": 0.06495529412843787,
+      "longitude": 0.000412862657251864,
+      "risk_score": 30,
+      "ais_status": "DARK",
+      "cnn_confidence": 0.8849477199432778,
+      "length": 129.38605581897218,
+      "heading": 248.24552429041748,
+      "speed": 7.164557260897075,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-003",
+      "latitude": -0.006531698427272081,
+      "longitude": 0.032894725819498094,
+      "risk_score": 65,
+      "ais_status": "DARK",
+      "cnn_confidence": 0.7796191413192017,
+      "length": 112.15300848709822,
+      "heading": 244.70363109361352,
+      "speed": 10.73792533512341,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-004",
+      "latitude": -0.030163897841196136,
+      "longitude": 0.05669796997354257,
+      "risk_score": 45,
+      "ais_status": "Active",
+      "cnn_confidence": 0.8316732661025246,
+      "length": 79.15529813221585,
+      "heading": 286.2919711497285,
+      "speed": 15.398887270010416,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-005",
+      "latitude": 0.02995380449473628,
+      "longitude": -0.06163789959350328,
+      "risk_score": 95,
+      "ais_status": "Active",
+      "cnn_confidence": 0.9749479613031414,
+      "length": 89.51853434114679,
+      "heading": 342.6788798217163,
+      "speed": 12.962444549091675,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-006",
+      "latitude": 0.0070592950740393096,
+      "longitude": -0.031382882542492996,
+      "risk_score": 65,
+      "ais_status": "Active",
+      "cnn_confidence": 0.7946952065992916,
+      "length": 94.35992581337068,
+      "heading": 337.56694536609353,
+      "speed": 13.866950332134712,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-007",
+      "latitude": -0.07455754967667186,
+      "longitude": 0.03751306666131096,
+      "risk_score": 45,
+      "ais_status": "Active",
+      "cnn_confidence": 0.8910431715057923,
+      "length": 116.19602098446676,
+      "heading": 167.00444348556596,
+      "speed": 2.821666141895238,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-008",
+      "latitude": 0.08266061978142047,
+      "longitude": -0.04934477066332053,
+      "risk_score": 85,
+      "ais_status": "DARK",
+      "cnn_confidence": 0.8525736829116948,
+      "length": 54.171215261744486,
+      "heading": 172.3915315140821,
+      "speed": 4.5643552644249406,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-009",
+      "latitude": -0.06530040759240836,
+      "longitude": 0.015646813600118353,
+      "risk_score": 85,
+      "ais_status": "DARK",
+      "cnn_confidence": 0.7907715774162403,
+      "length": 88.12375355682931,
+      "heading": 247.37245802945168,
+      "speed": 22.2366368915243,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-010",
+      "latitude": -0.00916299439124875,
+      "longitude": 0.0259493256022571,
+      "risk_score": 30,
+      "ais_status": "Active",
+      "cnn_confidence": 0.9067322127679529,
+      "length": 67.07876775889784,
+      "heading": 181.8476319038722,
+      "speed": 21.186761361723107,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-011",
+      "latitude": -0.06353774593579176,
+      "longitude": -0.07267980504925914,
+      "risk_score": 85,
+      "ais_status": "Active",
+      "cnn_confidence": 0.8295216582328625,
+      "length": 95.49891755203224,
+      "heading": 287.072406196979,
+      "speed": 11.63695021014182,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    },
+    {
+      "vessel_id": "SIM-VSL-012",
+      "latitude": 0.09222750807981445,
+      "longitude": -0.04596082698055359,
+      "risk_score": 30,
+      "ais_status": "Active",
+      "cnn_confidence": 0.9430323642799987,
+      "length": 127.87177110510075,
+      "heading": 184.84714851588967,
+      "speed": 20.419096426159122,
+      "behavior_analysis": {
+        "suspicion_level": "ANALYZING"
+      },
+      "image": null
+    }
+  ],
+  "detection_data": {
+    "satellite_image": {
+      "url": "/simulation_overlay.png",
+      "bounds": [
+        [
+          -0.2,
+          -0.2
+        ],
+        [
+          0.2,
+          0.2
+        ]
+      ]
+    }
+  },
+  "satellite_metadata": {
+    "source": "Ghost Hunter Simulation Engine",
+    "scene_id": "SIMULATION_MODE_ACTIVE",
+    "note": "AI-Generated Traffic Pattern"
+  },
+  "detection_summary": {
+    "total_detections": 12,
+    "dark_vessels": 4,
+    "high_risk_vessels": 6
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Detected 12 vessel candidates in the surveillance area, with 4 operating without AIS transponders. 6 vessels flagged as high risk. All 12 vessels have been analyzed for threat assessment and operational significance.",
+    "threat_assessment": "HIGH. Primary concerns include 4 dark vessels indicating potential intent to avoid detection, commonly associated with illegal fishing or other illicit maritime activities. The presence of vessels in this operational area warrants continued monitoring and potential enforcement action.",
+    "key_findings": [
+      "12 total vessel detections analyzed",
+      "4 dark vessels (no AIS) - 33.3% of total",
+      "6 high-risk vessels (score >60)",
+      "Average risk score: 56.2/100",
+      "Geographic spread: Moderate geographic spread",
+      "Detection confidence range: 0.0 - 0.0"
+    ],
+    "recommendations": [
+      "Deploy maritime patrol assets to investigate dark vessel activities",
+      "Cross-reference detection locations with historical AIS and intelligence data",
+      "Prioritize high-risk vessels for immediate follow-up surveillance",
+      "Coordinate with regional maritime authorities for enforcement action",
+      "Continue monitoring the area for pattern analysis and trend identification"
+    ],
+    "technical_notes": "Analysis generated using fallback mode due to API limitations. All 12 vessels included in assessment. Detection data processed from Ghost Hunter maritime surveillance system.",
+    "confidence_level": "MODERATE - Based on systematic analysis of detection patterns, risk scores, and operational context",
+    "detailed_vessel_analyses": [
+      {
+        "vessel_id": "SIM-VSL-001",
+        "analysis": "LOW RISK (Score: 15/100): Minimal threat indicators detected. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "-0.0134\u00b0N, -0.0737\u00b0E",
+        "risk_score": 15,
+        "threat_level": "LOW"
+      },
+      {
+        "vessel_id": "SIM-VSL-002",
+        "analysis": "DARK VESSEL ALERT: Operating without AIS transponder, indicating potential intent to avoid detection. This is a primary indicator of illegal fishing, smuggling, or unauthorized maritime activity. LOW RISK (Score: 30/100): Minimal threat indicators detected. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "0.0650\u00b0N, 0.0004\u00b0E",
+        "risk_score": 30,
+        "threat_level": "MODERATE"
+      },
+      {
+        "vessel_id": "SIM-VSL-003",
+        "analysis": "DARK VESSEL ALERT: Operating without AIS transponder, indicating potential intent to avoid detection. This is a primary indicator of illegal fishing, smuggling, or unauthorized maritime activity. HIGH RISK (Score: 65/100): Multiple threat indicators present. Immediate investigation recommended. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "-0.0065\u00b0N, 0.0329\u00b0E",
+        "risk_score": 65,
+        "threat_level": "HIGH"
+      },
+      {
+        "vessel_id": "SIM-VSL-004",
+        "analysis": "MODERATE RISK (Score: 45/100): Some concerning indicators. Continued monitoring advised. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "-0.0302\u00b0N, 0.0567\u00b0E",
+        "risk_score": 45,
+        "threat_level": "LOW"
+      },
+      {
+        "vessel_id": "SIM-VSL-005",
+        "analysis": "HIGH RISK (Score: 95/100): Multiple threat indicators present. Immediate investigation recommended. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "0.0300\u00b0N, -0.0616\u00b0E",
+        "risk_score": 95,
+        "threat_level": "HIGH"
+      },
+      {
+        "vessel_id": "SIM-VSL-006",
+        "analysis": "HIGH RISK (Score: 65/100): Multiple threat indicators present. Immediate investigation recommended. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "0.0071\u00b0N, -0.0314\u00b0E",
+        "risk_score": 65,
+        "threat_level": "HIGH"
+      },
+      {
+        "vessel_id": "SIM-VSL-007",
+        "analysis": "MODERATE RISK (Score: 45/100): Some concerning indicators. Continued monitoring advised. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "-0.0746\u00b0N, 0.0375\u00b0E",
+        "risk_score": 45,
+        "threat_level": "LOW"
+      },
+      {
+        "vessel_id": "SIM-VSL-008",
+        "analysis": "DARK VESSEL ALERT: Operating without AIS transponder, indicating potential intent to avoid detection. This is a primary indicator of illegal fishing, smuggling, or unauthorized maritime activity. HIGH RISK (Score: 85/100): Multiple threat indicators present. Immediate investigation recommended. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "0.0827\u00b0N, -0.0493\u00b0E",
+        "risk_score": 85,
+        "threat_level": "HIGH"
+      },
+      {
+        "vessel_id": "SIM-VSL-009",
+        "analysis": "DARK VESSEL ALERT: Operating without AIS transponder, indicating potential intent to avoid detection. This is a primary indicator of illegal fishing, smuggling, or unauthorized maritime activity. HIGH RISK (Score: 85/100): Multiple threat indicators present. Immediate investigation recommended. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "-0.0653\u00b0N, 0.0156\u00b0E",
+        "risk_score": 85,
+        "threat_level": "HIGH"
+      },
+      {
+        "vessel_id": "SIM-VSL-010",
+        "analysis": "LOW RISK (Score: 30/100): Minimal threat indicators detected. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "-0.0092\u00b0N, 0.0259\u00b0E",
+        "risk_score": 30,
+        "threat_level": "LOW"
+      },
+      {
+        "vessel_id": "SIM-VSL-011",
+        "analysis": "HIGH RISK (Score: 85/100): Multiple threat indicators present. Immediate investigation recommended. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "-0.0635\u00b0N, -0.0727\u00b0E",
+        "risk_score": 85,
+        "threat_level": "HIGH"
+      },
+      {
+        "vessel_id": "SIM-VSL-012",
+        "analysis": "LOW RISK (Score: 30/100): Minimal threat indicators detected. Weak SAR signature (confidence: 0.0) requires verification.",
+        "coordinates": "0.0922\u00b0N, -0.0460\u00b0E",
+        "risk_score": 30,
+        "threat_level": "LOW"
+      }
+    ],
+    "analysis_metadata": {
+      "source_report": "temp_lite_0c0575ca-790a-4209-8dad-b4d7875c5068.json",
+      "analysis_timestamp": "2025-12-30T18:19:49.260205",
+      "analyzer_version": "1.0",
+      "model_used": "gemini-1.5-pro"
+    }
+  },
+  "satellite_image": {
+    "url": "/simulation_overlay.png",
+    "bounds": [
+      [
+        -10,
+        -10
+      ],
+      [
+        10,
+        10
+      ]
+    ]
+  }
+}

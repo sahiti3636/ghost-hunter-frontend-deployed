@@ -1,0 +1,94 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 11462.0,
+      "pixel_y": 5639.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1006.5555419921875,
+      "mean_sbci": 10.694704055786133,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 11460.307431249357,
+      "bbox_min_y": 5637.7305734370175,
+      "bbox_max_x": 11463.692568750643,
+      "bbox_max_y": 5640.2694265629825,
+      "cluster_id": 2,
+      "lat": 20.121341168659107,
+      "lng": -157.3294300036676,
+      "risk": 86,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Fishing",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 11198.0,
+      "pixel_y": 5994.0,
+      "area_pixels": 9,
+      "mean_backscatter": 913.3333129882812,
+      "mean_sbci": 11.190509796142578,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 11196.307431249357,
+      "bbox_min_y": 5992.7305734370175,
+      "bbox_max_x": 11199.692568750643,
+      "bbox_max_y": 5995.2694265629825,
+      "cluster_id": 0,
+      "lat": 20.24726921627491,
+      "lng": -158.30381945332562,
+      "risk": 52,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Cargo",
+      "flag": "China",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 12384.0,
+      "pixel_y": 6239.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1395.5555419921875,
+      "mean_sbci": 6.222047805786133,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 12382.307431249357,
+      "bbox_min_y": 6237.7305734370175,
+      "bbox_max_x": 12385.692568750643,
+      "bbox_max_y": 6240.2694265629825,
+      "cluster_id": 1,
+      "lat": 19.404461166893473,
+      "lng": -157.03128257897347,
+      "risk": 82,
+      "name": "Vessel-3",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "Marshall Islands",
+      "behavior_analysis": {
+        "reasoning": "Entering EEZ without scheduled authorization."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 3,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region S1A_IW_GRDH_1SDV_20251228T231936_20251228T232001_062522_07D5BF_FAE4.SAFE indicates significant maritime activity. 3 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 3 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

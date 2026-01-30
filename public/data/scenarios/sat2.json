@@ -1,0 +1,69 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 10160.166666666666,
+      "pixel_y": 3021.3333333333335,
+      "area_pixels": 18,
+      "mean_backscatter": 1476.22216796875,
+      "mean_sbci": 8.416434288024902,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.047197551196598,
+      "bbox_min_x": 10157.773012984257,
+      "bbox_min_y": 3019.538093071527,
+      "bbox_max_x": 10162.560320349075,
+      "bbox_max_y": 3023.12857359514,
+      "cluster_id": 0,
+      "lat": 20.523635116812084,
+      "lng": -158.24025563735992,
+      "risk": 39,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Military",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 6693.0,
+      "pixel_y": 8807.5,
+      "area_pixels": 12,
+      "mean_backscatter": 3774.416748046875,
+      "mean_sbci": 11.201071739196777,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 6691.045589952389,
+      "bbox_min_y": 8806.03419246429,
+      "bbox_max_x": 6694.954410047611,
+      "bbox_max_y": 8808.96580753571,
+      "cluster_id": 1,
+      "lat": 20.021642417689193,
+      "lng": -157.00449748300653,
+      "risk": 60,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Tug",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "AIS signal gap > 4 hours correlated with SAR detection."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 2,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region sat2 indicates significant maritime activity. 2 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 2 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

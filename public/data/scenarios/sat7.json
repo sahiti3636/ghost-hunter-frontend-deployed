@@ -1,0 +1,44 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 9110.6,
+      "pixel_y": 1072.4,
+      "area_pixels": 15,
+      "mean_backscatter": 932.3333129882812,
+      "mean_sbci": 9.71915054321289,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 9108.414903138817,
+      "bbox_min_y": 1070.761177354112,
+      "bbox_max_x": 9112.785096861184,
+      "bbox_max_y": 1074.038822645888,
+      "cluster_id": 0,
+      "lat": 20.910832187795872,
+      "lng": -157.2290143405885,
+      "risk": 13,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Fishing",
+      "flag": "Singapore",
+      "behavior_analysis": {
+        "reasoning": "Speed profile inconsistent with declared vessel type."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 1,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region sat7 indicates significant maritime activity. 1 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 1 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

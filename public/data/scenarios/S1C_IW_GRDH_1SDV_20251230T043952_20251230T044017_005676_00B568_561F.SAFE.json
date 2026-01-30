@@ -1,0 +1,194 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 7551.0,
+      "pixel_y": 2256.0,
+      "area_pixels": 9,
+      "mean_backscatter": 745.0,
+      "mean_sbci": 7.751842975616455,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 7549.307431249356,
+      "bbox_min_y": 2254.7305734370175,
+      "bbox_max_x": 7552.692568750644,
+      "bbox_max_y": 2257.2694265629825,
+      "cluster_id": 0,
+      "lat": 19.304057868127682,
+      "lng": -157.6073051992382,
+      "risk": 55,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Military",
+      "flag": "Marshall Islands",
+      "behavior_analysis": {
+        "reasoning": "Loitering pattern observed in high-traffic channel."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 9955.0,
+      "pixel_y": 2394.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1067.3333740234375,
+      "mean_sbci": 7.291271686553955,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 9953.307431249357,
+      "bbox_min_y": 2392.7305734370175,
+      "bbox_max_x": 9956.692568750643,
+      "bbox_max_y": 2395.2694265629825,
+      "cluster_id": 0,
+      "lat": 19.213699787649155,
+      "lng": -158.7592279152334,
+      "risk": 78,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "China",
+      "behavior_analysis": {
+        "reasoning": "AIS signal gap > 4 hours correlated with SAR detection."
+      }
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 11671.5,
+      "pixel_y": 4469.0,
+      "area_pixels": 12,
+      "mean_backscatter": 1045.0,
+      "mean_sbci": 6.556350231170654,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 11669.545589952388,
+      "bbox_min_y": 4467.534192464292,
+      "bbox_max_x": 11673.454410047612,
+      "bbox_max_y": 4470.465807535708,
+      "cluster_id": 1,
+      "lat": 19.816982193820117,
+      "lng": -157.70990756434048,
+      "risk": 84,
+      "name": "Vessel-3",
+      "status": "UNKNOWN",
+      "type": "Tug",
+      "flag": "Marshall Islands",
+      "behavior_analysis": {
+        "reasoning": "Entering EEZ without scheduled authorization."
+      }
+    },
+    {
+      "vessel_id": 4,
+      "pixel_x": 4448.0,
+      "pixel_y": 5467.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1135.3333740234375,
+      "mean_sbci": 7.116621971130371,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 4446.307431249356,
+      "bbox_min_y": 5465.7305734370175,
+      "bbox_max_x": 4449.692568750644,
+      "bbox_max_y": 5468.2694265629825,
+      "cluster_id": 0,
+      "lat": 19.087902957743196,
+      "lng": -157.4484086104664,
+      "risk": 27,
+      "name": "Vessel-4",
+      "status": "UNKNOWN",
+      "type": "Tanker",
+      "flag": "Marshall Islands",
+      "behavior_analysis": {
+        "reasoning": "Entering EEZ without scheduled authorization."
+      }
+    },
+    {
+      "vessel_id": 5,
+      "pixel_x": 8351.0,
+      "pixel_y": 6028.0,
+      "area_pixels": 9,
+      "mean_backscatter": 935.4444580078125,
+      "mean_sbci": 7.902701377868652,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 8349.307431249357,
+      "bbox_min_y": 6026.7305734370175,
+      "bbox_max_x": 8352.692568750643,
+      "bbox_max_y": 6029.2694265629825,
+      "cluster_id": 0,
+      "lat": 19.660846522025132,
+      "lng": -157.11291723527356,
+      "risk": 57,
+      "name": "Vessel-5",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "Liberia",
+      "behavior_analysis": {
+        "reasoning": "Abnormal course deviation detected near restricted zone."
+      }
+    },
+    {
+      "vessel_id": 6,
+      "pixel_x": 8355.0,
+      "pixel_y": 7387.0,
+      "area_pixels": 9,
+      "mean_backscatter": 799.888916015625,
+      "mean_sbci": 6.691984176635742,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 8353.307431249357,
+      "bbox_min_y": 7385.7305734370175,
+      "bbox_max_x": 8356.692568750643,
+      "bbox_max_y": 7388.2694265629825,
+      "cluster_id": 0,
+      "lat": 20.369776558432278,
+      "lng": -158.0437228877899,
+      "risk": 84,
+      "name": "Vessel-6",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "China",
+      "behavior_analysis": {
+        "reasoning": "AIS signal gap > 4 hours correlated with SAR detection."
+      }
+    },
+    {
+      "vessel_id": 7,
+      "pixel_x": 5940.0,
+      "pixel_y": 7729.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1354.888916015625,
+      "mean_sbci": 8.30130386352539,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 5938.307431249356,
+      "bbox_min_y": 7727.7305734370175,
+      "bbox_max_x": 5941.692568750644,
+      "bbox_max_y": 7730.2694265629825,
+      "cluster_id": 2,
+      "lat": 19.50413838550629,
+      "lng": -158.94315764518922,
+      "risk": 48,
+      "name": "Vessel-7",
+      "status": "UNKNOWN",
+      "type": "Fishing",
+      "flag": "China",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 7,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region S1C_IW_GRDH_1SDV_20251230T043952_20251230T044017_005676_00B568_561F.SAFE indicates significant maritime activity. 7 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 7 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

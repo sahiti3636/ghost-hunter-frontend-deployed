@@ -1,0 +1,169 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 3416.0,
+      "pixel_y": 2750.0,
+      "area_pixels": 9,
+      "mean_backscatter": 1885.77783203125,
+      "mean_sbci": 6.081947326660156,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 3414.307431249357,
+      "bbox_min_y": 2748.7305734370175,
+      "bbox_max_x": 3417.692568750643,
+      "bbox_max_y": 2751.2694265629825,
+      "cluster_id": 2,
+      "lat": 19.547285697554265,
+      "lng": -157.76747905273677,
+      "risk": 42,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Tug",
+      "flag": "Panama",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 3416.0,
+      "pixel_y": 2755.0,
+      "area_pixels": 9,
+      "mean_backscatter": 2410.5556640625,
+      "mean_sbci": 8.323455810546875,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 3414.307431249357,
+      "bbox_min_y": 2753.7305734370175,
+      "bbox_max_x": 3417.692568750643,
+      "bbox_max_y": 2756.2694265629825,
+      "cluster_id": 1,
+      "lat": 19.812984053104362,
+      "lng": -157.07171448807415,
+      "risk": 54,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Fishing",
+      "flag": "Liberia",
+      "behavior_analysis": {
+        "reasoning": "Entering EEZ without scheduled authorization."
+      }
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 1233.0,
+      "pixel_y": 2936.0,
+      "area_pixels": 9,
+      "mean_backscatter": 639.6666870117188,
+      "mean_sbci": 7.046742916107178,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 1231.3074312493568,
+      "bbox_min_y": 2934.7305734370175,
+      "bbox_max_x": 1234.6925687506432,
+      "bbox_max_y": 2937.2694265629825,
+      "cluster_id": 2,
+      "lat": 20.66799609385454,
+      "lng": -157.99360064251917,
+      "risk": 69,
+      "name": "Vessel-3",
+      "status": "UNKNOWN",
+      "type": "Fishing",
+      "flag": "Panama",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 4,
+      "pixel_x": 2711.5,
+      "pixel_y": 4375.0,
+      "area_pixels": 12,
+      "mean_backscatter": 3525.25,
+      "mean_sbci": 9.218110084533691,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 2709.545589952388,
+      "bbox_min_y": 4373.534192464292,
+      "bbox_max_x": 2713.454410047612,
+      "bbox_max_y": 4376.465807535708,
+      "cluster_id": 1,
+      "lat": 19.27262454870884,
+      "lng": -157.375583718748,
+      "risk": 80,
+      "name": "Vessel-4",
+      "status": "UNKNOWN",
+      "type": "Passenger",
+      "flag": "Panama",
+      "behavior_analysis": {
+        "reasoning": "AIS signal gap > 4 hours correlated with SAR detection."
+      }
+    },
+    {
+      "vessel_id": 5,
+      "pixel_x": 869.5,
+      "pixel_y": 7749.0,
+      "area_pixels": 12,
+      "mean_backscatter": 2208.666748046875,
+      "mean_sbci": 10.43968677520752,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 867.5455899523884,
+      "bbox_min_y": 7747.534192464292,
+      "bbox_max_x": 871.4544100476116,
+      "bbox_max_y": 7750.465807535708,
+      "cluster_id": 1,
+      "lat": 19.95974114002105,
+      "lng": -158.98067577445337,
+      "risk": 80,
+      "name": "Vessel-5",
+      "status": "UNKNOWN",
+      "type": "Cargo",
+      "flag": "Marshall Islands",
+      "behavior_analysis": {
+        "reasoning": "Speed profile inconsistent with declared vessel type."
+      }
+    },
+    {
+      "vessel_id": 6,
+      "pixel_x": 3471.1304347826085,
+      "pixel_y": 8210.91304347826,
+      "area_pixels": 23,
+      "mean_backscatter": 690.6521606445312,
+      "mean_sbci": 6.471771717071533,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965979,
+      "bbox_min_x": 3468.4246765927055,
+      "bbox_min_y": 8208.883724835832,
+      "bbox_max_x": 3473.8361929725115,
+      "bbox_max_y": 8212.942362120688,
+      "cluster_id": 0,
+      "lat": 19.10320662134587,
+      "lng": -157.1913071908386,
+      "risk": 39,
+      "name": "Vessel-6",
+      "status": "UNKNOWN",
+      "type": "Tug",
+      "flag": "USA",
+      "behavior_analysis": {
+        "reasoning": "Entering EEZ without scheduled authorization."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 6,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region S1A_IW_GRDH_1SDV_20251228T232116_20251228T232141_062522_07D5BF_9658.SAFE indicates significant maritime activity. 6 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 6 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}

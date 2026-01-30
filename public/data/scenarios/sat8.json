@@ -1,0 +1,94 @@
+{
+  "vessels": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 5962.105263157895,
+      "pixel_y": 5989.421052631579,
+      "area_pixels": 19,
+      "mean_backscatter": 4603.0,
+      "mean_sbci": 10.77710247039795,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965979,
+      "bbox_min_x": 5959.646017778212,
+      "bbox_min_y": 5987.576618596817,
+      "bbox_max_x": 5964.564508537578,
+      "bbox_max_y": 5991.2654866663415,
+      "cluster_id": 1,
+      "lat": 20.00971886612953,
+      "lng": -157.5410446977566,
+      "risk": 70,
+      "name": "Vessel-1",
+      "status": "UNKNOWN",
+      "type": "Tug",
+      "flag": "Liberia",
+      "behavior_analysis": {
+        "reasoning": "Loitering pattern observed in high-traffic channel."
+      }
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 5140.0,
+      "pixel_y": 7823.5,
+      "area_pixels": 12,
+      "mean_backscatter": 1442.1666259765625,
+      "mean_sbci": 8.576647758483887,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 5138.045589952389,
+      "bbox_min_y": 7822.034192464292,
+      "bbox_max_x": 5141.954410047611,
+      "bbox_max_y": 7824.965807535708,
+      "cluster_id": 2,
+      "lat": 20.98936907374225,
+      "lng": -158.9359596142076,
+      "risk": 90,
+      "name": "Vessel-2",
+      "status": "UNKNOWN",
+      "type": "Tug",
+      "flag": "Liberia",
+      "behavior_analysis": {
+        "reasoning": "Rendezvous behavior suspected with unlit vessel."
+      }
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 9046.5,
+      "pixel_y": 8937.0,
+      "area_pixels": 12,
+      "mean_backscatter": 1325.6666259765625,
+      "mean_sbci": 8.177900314331055,
+      "aspect_ratio": 1.3333333333333333,
+      "compactness": 1.0471975511965976,
+      "bbox_min_x": 9044.545589952388,
+      "bbox_min_y": 8935.53419246429,
+      "bbox_max_x": 9048.454410047612,
+      "bbox_max_y": 8938.46580753571,
+      "cluster_id": 0,
+      "lat": 19.881513280455277,
+      "lng": -158.88932412402337,
+      "risk": 19,
+      "name": "Vessel-3",
+      "status": "UNKNOWN",
+      "type": "Fishing",
+      "flag": "China",
+      "behavior_analysis": {
+        "reasoning": "Abnormal course deviation detected near restricted zone."
+      }
+    }
+  ],
+  "detection_summary": {
+    "total_detections": 3,
+    "dark_vessels": 0,
+    "high_risk_vessels": 0
+  },
+  "intelligence_analysis": {
+    "executive_summary": "Satellite analysis of region sat8 indicates significant maritime activity. 3 vessels detected, with 0 classified as high-risk targets requiring immediate attention.",
+    "threat_assessment": "MODERATE",
+    "key_findings": [
+      "Detected 3 vessels in the sector.",
+      "0 vessels exhibiting dark AIS signatures.",
+      "abnormal clustering patterns observed near exclusion zone boundaries."
+    ],
+    "detailed_vessel_analyses": []
+  }
+}
