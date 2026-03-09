@@ -8,7 +8,7 @@ import Lenis from "@studio-freight/lenis"
 import gsap from "gsap"
 import { ScrollTrigger } from "gsap/ScrollTrigger"
 
-export default function GhostHunterHome() {
+export default function ShadowFleetHome() {
   const [activeSection, setActiveSection] = useState(0)
 
   useEffect(() => {
@@ -76,7 +76,7 @@ export default function GhostHunterHome() {
         </section>
       </div>
 
-      {/* Section 3: Parallax with Ghost Hunter - Relative to start fresh flow? */}
+      {/* Section 3: Parallax with Shadow Fleet - Relative to start fresh flow? */}
       <div
         className={`w-full transition-opacity duration-1000 ease-in-out z-10 ${activeSection === 2 ? "relative opacity-100" : "absolute inset-0 opacity-0 h-0 overflow-hidden"
           }`}

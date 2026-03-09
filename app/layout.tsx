@@ -9,8 +9,8 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Ghost Hunter - Supernatural Investigation",
-  description: "Explore the paranormal with Ghost Hunter - an immersive supernatural investigation experience",
+  title: "Shadow Fleet - Supernatural Investigation",
+  description: "Explore the paranormal with Shadow Fleet - an immersive supernatural investigation experience",
   generator: "v0.app",
   icons: {
     icon: [

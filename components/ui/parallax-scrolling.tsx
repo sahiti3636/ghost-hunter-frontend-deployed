@@ -59,7 +59,7 @@ export function ParallaxComponent() {
             data-parallax-layer="1"
             className="absolute inset-0 w-full h-full bg-cover bg-center"
             style={{
-              backgroundImage: "url('/ghost-hunter-bg.png')",
+              backgroundImage: "url('/shadow-fleet-bg.png')",
               backgroundPosition: "center",
               backgroundSize: "cover",
             }}
@@ -68,13 +68,13 @@ export function ParallaxComponent() {
           {/* Overlay gradient */}
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/40" />
 
-          {/* Ghost Hunter Title */}
+          {/* Shadow Fleet Title */}
           <div
             data-parallax-layer="3"
             className="parallax__layer-title absolute inset-0 flex items-center justify-center top-[-10%]"
           >
             <h1 className="text-[15vw] leading-none font-black text-white text-center drop-shadow-2xl tracking-tighter uppercase">
-              GHOST HUNTER
+              SHADOW FLEET
             </h1>
           </div>
 
@@ -99,13 +99,13 @@ export function ParallaxComponent() {
         </svg>
 
         <div className="text-center space-y-4 max-w-2xl">
-          <h2 className="text-5xl md:text-6xl font-bold text-white mb-6">Ready to Hunt?</h2>
+          <h2 className="text-5xl md:text-6xl font-bold text-white mb-6">Ready to Uncover?</h2>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">Click below to begin your supernatural investigation</p>
           <button
             onClick={() => router.push("/hunt")}
             className="relative px-10 py-4 text-xl font-bold text-black bg-cyan-400 rounded-lg hover:bg-cyan-300 transition-all duration-300 hover:shadow-lg hover:shadow-cyan-400/50 transform hover:scale-105"
           >
-            Use Ghost Hunter
+            Use Shadow Fleet
           </button>
         </div>
       </section>

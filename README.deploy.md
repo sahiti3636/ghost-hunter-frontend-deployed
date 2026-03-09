@@ -1,6 +1,6 @@
-# Ghost Hunter - Minimal Frontend
+# Shadow Fleet - Minimal Frontend
 
-This is a standalone version of the Ghost Hunter frontend, ready for deployment on platforms like Vercel, Netlify, or GitHub Pages (via static export).
+This is a standalone version of the Shadow Fleet frontend, ready for deployment on platforms like Vercel, Netlify, or GitHub Pages (via static export).
 
 ## Prerequisites
 

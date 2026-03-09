@@ -37,7 +37,7 @@ export const generateAnalysisPDF = (
     doc.setTextColor(6, 182, 212); // Cyan-500
     doc.setFontSize(16);
     doc.setFont('helvetica', 'bold');
-    doc.text('GHOST HUNTER // INTELLIGENCE REPORT', 14, 13);
+    doc.text('SHADOW FLEET // INTELLIGENCE REPORT', 14, 13);
 
     doc.setTextColor(150, 150, 150);
     doc.setFontSize(10);
@@ -117,5 +117,5 @@ export const generateAnalysisPDF = (
     });
 
     // --- SAVE ---
-    doc.save(`ghost-hunter-report-${scenarioId}.pdf`);
+    doc.save(`shadow-fleet-report-${scenarioId}.pdf`);
 };

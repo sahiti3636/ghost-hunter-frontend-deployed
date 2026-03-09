@@ -167,7 +167,7 @@ export function RegionSetup() {
                     <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-cyan-500 to-blue-600 flex items-center justify-center">
                         <Crosshair className="w-5 h-5 text-white" />
                     </div>
-                    <span className="font-bold tracking-wider text-lg">GHOST<span className="text-cyan-400">HUNTER</span></span>
+                    <span className="font-bold tracking-wider text-lg">SHADOW<span className="text-cyan-400">FLEET</span></span>
                     <div className="h-4 w-[1px] bg-white/20 mx-3" />
                     <span className="text-sm text-gray-400 font-medium">New Analysis</span>
                 </div>

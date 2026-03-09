@@ -197,7 +197,7 @@
     }
   },
   "satellite_metadata": {
-    "source": "Ghost Hunter Simulation Engine",
+    "source": "Shadow Fleet Simulation Engine",
     "scene_id": "SIMULATION_MODE_ACTIVE",
     "note": "AI-Generated Traffic Pattern"
   },
@@ -224,7 +224,7 @@
       "Coordinate with regional maritime authorities for enforcement action",
       "Continue monitoring the area for pattern analysis and trend identification"
     ],
-    "technical_notes": "Analysis generated using fallback mode due to API limitations. All 12 vessels included in assessment. Detection data processed from Ghost Hunter maritime surveillance system.",
+    "technical_notes": "Analysis generated using fallback mode due to API limitations. All 12 vessels included in assessment. Detection data processed from Shadow Fleet maritime surveillance system.",
     "confidence_level": "MODERATE - Based on systematic analysis of detection patterns, risk scores, and operational context",
     "detailed_vessel_analyses": [
       {

@@ -304,17 +304,17 @@ export default function GlobeScrollDemo({ onDiveIn }: { onDiveIn?: () => void })
             badge: "Explore Our World",
             title: "Explore Our Oceans",
             subtitle: "Uncover hidden maritime activity using satellite intelligence, machine learning, and explainable AI.",
-            description: "Ghost Hunter monitors protected marine regions to detect vessels that deliberately disappear from tracking systems. By fusing radar satellites with behavioral intelligence, we reveal what traditional monitoring cannot see.",
+            description: "Shadow Fleet monitors protected marine regions to detect vessels that deliberately disappear from tracking systems. By fusing radar satellites with behavioral intelligence, we reveal what traditional monitoring cannot see.",
             align: "left" as const,
             actions: [
-                { label: "Begin Hunt", variant: "primary" as const, onClick: handleDiveIn },]
+                { label: "Uncover Illegal Activity", variant: "primary" as const, onClick: handleDiveIn },]
         },
         {
             id: "connected",
             badge: "Connected Worldwide",
             title: "Global Surveillance,",
             subtitle: "Local Impact",
-            description: "From remote Pacific sanctuaries to high-traffic maritime corridors, Ghost Hunter connects satellite data, vessel signals, and AI models to deliver actionable intelligence where it matters most — inside Marine Protected Areas.",
+            description: "From remote Pacific sanctuaries to high-traffic maritime corridors, Shadow Fleet connects satellite data, vessel signals, and AI models to deliver actionable intelligence where it matters most — inside Marine Protected Areas.",
             align: "center" as const,
             // Using subtitle for the second part of the headline to fit the structure, or I could combine them.
             // The user asked for "Global Surveillance, Local Impact" as headline. I will adjust slightly to fit the prop structure.
@@ -337,7 +337,7 @@ export default function GlobeScrollDemo({ onDiveIn }: { onDiveIn?: () => void })
             badge: "Our Shared Tomorrow",
             title: "Protecting What Cannot",
             subtitle: "Protect Itself",
-            description: "Illegal fishing and maritime violations threaten fragile ecosystems worldwide. Ghost Hunter empowers authorities, researchers, and conservationists with tools to detect, understand, and respond — before irreversible damage occurs.",
+            description: "Illegal fishing and maritime violations threaten fragile ecosystems worldwide. Shadow Fleet empowers authorities, researchers, and conservationists with tools to detect, understand, and respond — before irreversible damage occurs.",
             align: "center" as const,
             actions: [
                 { label: "Dive in", variant: "primary" as const, onClick: handleDiveIn },
